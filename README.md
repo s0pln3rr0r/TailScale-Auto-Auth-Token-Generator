@@ -1,7 +1,7 @@
 # TailScale Auto Auth Token Generator
 
 ## Overview
-The **Boot2Root CTF Auth Token Generator** is a Python tool designed to automate the generation of authentication tokens for participants and machines in a Boot2Root Capture The Flag (CTF) event. This tool is part of the ["Building a Free CTF Platform"]([https://your-blog-link-here.com](https://medium.com/@s0pln3rr0r/building-a-free-ctf-platform-bfcpt-3f2918e6e028) blog series, which guides you through creating your own free and customizable CTF platform.
+The **Boot2Root CTF Auth Token Generator** is a Python tool designed to automate the generation of authentication tokens for participants and machines in a Boot2Root Capture The Flag (CTF) event. This tool is part of the ["Building a Free CTF Platform"](https://medium.com/@s0pln3rr0r/building-a-free-ctf-platform-bfcpt-3f2918e6e028) blog series, which guides you through creating your own free and customizable CTF platform.
 
 ## Features
 - **Token Generation**: Automatically generates and manages authentication tokens for participants and machines.
