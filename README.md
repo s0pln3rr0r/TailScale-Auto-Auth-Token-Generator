@@ -36,16 +36,14 @@ Here’s how the tool looks when running in your terminal or console:
    ```bash
    git clone https://github.com/s0pln3rr0r/TailScale-Auto-Auth-Token-Generator.git
    cd tailscale-auto-auth-token-generator
-Install the required dependencies:
+2. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Usage
-Update the script generate_machine_invites.py with your Tailscale API key and CTF organization details.
-
+## Usage
 Run the script to generate tokens for all participants and machines:
 
 ```bash
-python generate_machine_invites.py
+python3 generate_machine_invites.py
 ```
-The script will generate an Excel file (tokens.xlsx) containing the tokens.
+The script will generate an Excel file (Auth_Keys.xlsx) containing the tokens.
