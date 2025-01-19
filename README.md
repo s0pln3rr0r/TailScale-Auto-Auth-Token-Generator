@@ -37,9 +37,9 @@ Here’s how the tool looks when running in your terminal or console:
    git clone https://github.com/s0pln3rr0r/TailScale-Auto-Auth-Token-Generator.git
    cd tailscale-auto-auth-token-generator
 2. Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 ## Usage
 Run the script to generate tokens for all participants and machines:
 
