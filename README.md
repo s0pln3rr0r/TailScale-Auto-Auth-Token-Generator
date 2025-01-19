@@ -15,7 +15,6 @@ The **Boot2Root CTF Auth Token Generator** is a Python tool designed to automate
 The tool creates an Excel file with details of participants and machines, including their generated authentication tokens.
 
 ![Excel File Example](https://cdn-images-1.medium.com/max/1000/1*OFOblV2zIlJLPDIGKTo2QQ.png)  
-(*Placeholder: Replace this with a screenshot of the generated Excel file.*)
 
 ---
 
@@ -23,7 +22,6 @@ The tool creates an Excel file with details of participants and machines, includ
 Here’s how the tool looks when running in your terminal or console:
 
 ![Tool Interface](https://cdn-images-1.medium.com/max/1000/1*iAdEx46hZfNmlJ8hM48xgQ.png)  
-(*Placeholder: Replace this with a screenshot of your tool's terminal interface.*)
 
 ---
 
